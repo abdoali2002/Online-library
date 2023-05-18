@@ -1,0 +1,14 @@
+
+* {
+    padding:0;
+    margin:0;
+}
+body { 
+    background: url("https://img.freepik.com/premium-photo/grey-watercolor-soft-abstract-background_3590-96.jpg?w=740"); 
+    /* background: url("https://img.freepik.com/premium-vector/watercolor-abstract-background_23-2148993239.jpg?w=740"); */
+    background-size:cover;
+    background-position:center;
+    background: cover;
+
+}
+
